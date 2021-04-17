@@ -1,4 +1,4 @@
-# MarioPygame
+# MarioPygame - WASD support added
 
 A python remake of the classic Super Mario Bros.
 
